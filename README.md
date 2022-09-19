@@ -1,4 +1,4 @@
-# Hotel-Management-System-
+# Hotel Management System
 
 A database management system (DBMS) is system software for creating and managing data. 
 A DBMS makes it possible for end users to create, protect, read, update and delete data in a database.
